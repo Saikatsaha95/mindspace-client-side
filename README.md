@@ -1,6 +1,6 @@
 # MindSpace
 
-Website Link: [Create React App](https://github.com/facebook/create-react-app).
+Website Link: [MindSpace Website](https://gifted-liskov-4ff795.netlify.app/).
 
 # Functionalities
 
