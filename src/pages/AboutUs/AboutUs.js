@@ -1,9 +1,12 @@
 import React from "react";
+import AboutMindspace from "../../components/AboutMindspace/AboutMindspace";
+import DownloadApp from "../../components/DownloadApp/DownloadApp";
 
 const AboutUs = () => {
   return (
     <div>
-      <h2>This is about us</h2>
+      <AboutMindspace></AboutMindspace>
+      <DownloadApp></DownloadApp>
     </div>
   );
 };

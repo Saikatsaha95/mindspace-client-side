@@ -10,10 +10,6 @@ const Hero = () => {
         <Container>
           <Row className="align-items-center g-5 ">
             <Col md={5} className="me-5 left-column">
-              {/*    <h1 className="title-text fw-bold">
-                Make Your <br /> <span>Mind</span> <br /> A Priority
-              </h1>
-              <h5>Live a more healthy and productive life</h5> */}
               <h1 className="title-text fw-bold">Make Your Mind A Priority.</h1>
               <h4 className="mt-4">
                 Do not always rely on medication, try meditation. Live a more

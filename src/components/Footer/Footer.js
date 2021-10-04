@@ -11,10 +11,10 @@ const Footer = () => {
           <Col md={4}>
             <h1>Mind Space</h1>
             <div className="mt-5">
-              <i class="fab fa-instagram fa-2x me-2"></i>
-              <i class="fab fa-facebook-square fa-2x me-2"></i>
-              <i class="fab fa-twitter-square fa-2x me-2"></i>
-              <i class="fab fa-youtube-square fa-2x"></i>
+              <i className="fab fa-instagram fa-2x me-2"></i>
+              <i className="fab fa-facebook-square fa-2x me-2"></i>
+              <i className="fab fa-twitter-square fa-2x me-2"></i>
+              <i className="fab fa-youtube-square fa-2x"></i>
             </div>
             <p className="mt-3">This is a meditation teaching website.</p>
             <small>MindSpace &copy;. All right reserved.</small>
@@ -44,12 +44,12 @@ const Footer = () => {
             />
 
             <h4 className="p-2">
-              <i class="fas fa-phone-square-alt text-info"></i>&nbsp;: +18 800
-              562 49 49
+              <i className="fas fa-phone-square-alt text-info"></i>&nbsp;: +18
+              800 562 49 49
             </h4>
             <p className="p-2">
-              <i class="fas fa-map-marker text-info"></i>&nbsp;: 160 Broadway,
-              New York, NY 10038, 102 1st Avenue, New York, NY 100
+              <i className="fas fa-map-marker text-info"></i>&nbsp;: 160
+              Broadway, New York, NY 10038, 102 1st Avenue, New York, NY 100
             </p>
           </Col>
         </Row>

@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "Medication for beginners",
+    "title": "Meditation for beginners",
     "category": "Beginner",
     "rating": "4.3",
     "img": "https://st2.depositphotos.com/8322640/48266/v/380/depositphotos_482667308-stock-illustration-indian-girl-doing-padmasana-lotus.jpg",
@@ -13,7 +13,7 @@
   },
   {
     "id": "2",
-    "title": "Medication techniques",
+    "title": "Meditation techniques",
     "category": "Advance",
     "rating": "4.7",
     "img": "https://media.istockphoto.com/vectors/woman-meditating-in-nature-and-leaves-concept-illustration-for-yoga-vector-id1139912908?k=20&m=1139912908&s=612x612&w=0&h=ljrtdv9NxmtUBrQ_lDzQGDmSQSnTlOMg6J75WWpDS3s=",
@@ -26,7 +26,7 @@
 
   {
     "id": "3",
-    "title": "Medication for parents",
+    "title": "Meditation for parents",
     "category": "Intermediate",
     "rating": "4.5",
     "img": "https://media.istockphoto.com/vectors/parents-and-children-embracing-together-and-smile-vector-id1167624029?k=20&m=1167624029&s=170667a&w=0&h=5vaeqXHxu9RbGsdGSZ75r861LUCkmRBnEYjxoZ1YBYU=",
@@ -38,7 +38,7 @@
   },
   {
     "id": "4",
-    "title": "Medication for school",
+    "title": "Meditation for school",
     "category": "Beginner",
     "rating": "5",
     "img": "https://cdn6.f-cdn.com/contestentries/1458359/21383270/5c0fd7001d5ad_thumb900.jpg",
@@ -50,7 +50,7 @@
   },
   {
     "id": "5",
-    "title": "Mindfullnexx activities for kids",
+    "title": "Mindfullness activities",
     "category": "Beginner",
     "rating": "5",
     "img": "https://stroudosteopath.files.wordpress.com/2019/06/children-meditating.png?w=352",
@@ -62,7 +62,7 @@
   },
   {
     "id": "6",
-    "title": "Filter negativity by medication",
+    "title": "Filter negativity",
     "category": "Intermediate",
     "rating": "4.5",
     "img": "https://prolifiko.com/wp-content/uploads/2019/08/Untitled-design-4.jpg",
@@ -74,7 +74,7 @@
   },
   {
     "id": "7",
-    "title": "Medication for stress",
+    "title": "Meditation for stress",
     "category": "Beginner",
     "rating": "4.7",
     "img": "https://cdn.tinybuddha.com/wp-content/uploads/2015/10/Calm-Man.jpg",
@@ -86,10 +86,10 @@
   },
   {
     "id": "8",
-    "title": "Medication for productivity",
+    "title": "Be productivity",
     "category": "Advance",
     "rating": "4.8",
-    "img": "https://d3q6qq2zt8nhwv.cloudfront.net/course/6e621c2a775746f9b3f6aa92cddc4b3d.jpg",
+    "img": "https://www.brightful.me/content/images/2021/06/image-43.png",
     "price": 50,
     "instructor": {
       "name": "Eckhart Tolle",

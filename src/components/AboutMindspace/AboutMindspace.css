@@ -1,0 +1,12 @@
+.top-section,
+.bottom-section {
+  height: 70vh;
+}
+
+.left-column {
+  color: #5a6175;
+}
+
+.left-column p {
+  font-size: 20px;
+}
