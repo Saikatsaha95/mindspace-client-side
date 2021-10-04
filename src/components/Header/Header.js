@@ -24,7 +24,7 @@ const Header = () => {
                 Services
               </NavLink>
               <NavLink className="nav-link" to="/registration">
-                Registration
+                Sign In
               </NavLink>
             </Nav>
           </Navbar.Collapse>

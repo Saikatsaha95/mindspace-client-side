@@ -19,7 +19,7 @@ const HomeCourse = () => {
         <div className="text-center">
           <NavLink to="/services">
             <button className="btn btn-outline-danger my-5 btn-show-more fw-bold">
-              Show More <i class="fas fa-arrow-right ms-auto"></i>
+              More Courses<i class="fas fa-arrow-right ms-2"></i>
             </button>
           </NavLink>
         </div>

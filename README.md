@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# MindSpace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website Link: [Create React App](https://github.com/facebook/create-react-app).
+
+# Functionalities
+
+- We provide online meditation learning sessions.
+- Find your favourite course.
+- Start living a better life.
 
 ## Available Scripts
 
