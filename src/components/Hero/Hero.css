@@ -1,0 +1,19 @@
+.banner-section {
+  background-color: #ffcccb;
+  height: 90vh;
+}
+
+.left-column {
+  margin-top: 70px;
+}
+
+.title-text {
+  font-size: 64px;
+  color: #eb1c61;
+}
+
+.btn-style {
+  font-size: 18px;
+  border-radius: 40px;
+  background-color: #d43469;
+}

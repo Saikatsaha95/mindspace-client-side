@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "title": "Medication for beginners",
+    "category": "Beginner",
+    "rating": "4.3",
+    "img": "https://st2.depositphotos.com/8322640/48266/v/380/depositphotos_482667308-stock-illustration-indian-girl-doing-padmasana-lotus.jpg",
+    "price": 30,
+    "instructor": {
+      "name": "Sara Soueidan",
+      "image": "https://cdn.mos.cms.futurecdn.net/XRXmLXQ6BEmxqgfqNdNNbg-970-80.jpg.webp"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Medication techniques",
+    "category": "Advance",
+    "rating": "4.7",
+    "img": "https://media.istockphoto.com/vectors/woman-meditating-in-nature-and-leaves-concept-illustration-for-yoga-vector-id1139912908?k=20&m=1139912908&s=612x612&w=0&h=ljrtdv9NxmtUBrQ_lDzQGDmSQSnTlOMg6J75WWpDS3s=",
+    "price": 50,
+    "instructor": {
+      "name": "Abby Covert",
+      "image": "https://assets-global.website-files.com/5fa08668c839845b6631ec34/5fa08668c8398483aa31eda0_Covert.jpg"
+    }
+  },
+
+  {
+    "id": "3",
+    "title": "Medication for parents",
+    "category": "Intermediate",
+    "rating": "4.5",
+    "img": "https://media.istockphoto.com/vectors/parents-and-children-embracing-together-and-smile-vector-id1167624029?k=20&m=1167624029&s=170667a&w=0&h=5vaeqXHxu9RbGsdGSZ75r861LUCkmRBnEYjxoZ1YBYU=",
+    "price": 40,
+    "instructor": {
+      "name": "Jeff Warren",
+      "image": "https://themindfulsteward.com/wp-content/uploads/2020/04/jeff-warren.jpg"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Medication for school",
+    "category": "Beginner",
+    "rating": "5",
+    "img": "https://cdn6.f-cdn.com/contestentries/1458359/21383270/5c0fd7001d5ad_thumb900.jpg",
+    "price": 30,
+    "instructor": {
+      "name": "Emily Fletcher",
+      "image": "https://themindfulsteward.com/wp-content/uploads/2020/04/emily-fletcher-meditation.jpg"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Mindfullnexx activities for kids",
+    "category": "Beginner",
+    "rating": "5",
+    "img": "https://stroudosteopath.files.wordpress.com/2019/06/children-meditating.png?w=352",
+    "price": 30,
+    "instructor": {
+      "name": "Andy Puddicombe",
+      "image": "https://themindfulsteward.com/wp-content/uploads/2020/04/andy-puddicombe.jpg"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Filter negativity by medication",
+    "category": "Intermediate",
+    "rating": "4.5",
+    "img": "https://prolifiko.com/wp-content/uploads/2019/08/Untitled-design-4.jpg",
+    "price": 40,
+    "instructor": {
+      "name": "Susan Piver",
+      "image": "https://themindfulsteward.com/wp-content/uploads/2020/04/Susan-Piver.jpg"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Medication for stress",
+    "category": "Beginner",
+    "rating": "4.7",
+    "img": "https://cdn.tinybuddha.com/wp-content/uploads/2015/10/Calm-Man.jpg",
+    "price": 30,
+    "instructor": {
+      "name": "Deepak Chopra",
+      "image": "https://themindfulsteward.com/wp-content/uploads/2020/04/deepak-chopra-mindfulness-meditation.jpg"
+    }
+  },
+  {
+    "id": "8",
+    "title": "Medication for productivity",
+    "category": "Advance",
+    "rating": "4.8",
+    "img": "https://d3q6qq2zt8nhwv.cloudfront.net/course/6e621c2a775746f9b3f6aa92cddc4b3d.jpg",
+    "price": 50,
+    "instructor": {
+      "name": "Eckhart Tolle",
+      "image": "https://themindfulsteward.com/wp-content/uploads/2020/04/Eckhart-Tolle.jpg"
+    }
+  }
+]

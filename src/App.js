@@ -7,11 +7,14 @@ import AboutUs from "./pages/AboutUs/AboutUs";
 import Services from "./pages/Services/Services";
 import Registration from "./pages/Registration/Registration";
 import NotFound from "./pages/NotFound/NotFound";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Router>
+        <Header />
         <Switch>
           <Route exact path="/">
             <Home></Home>
@@ -32,6 +35,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
